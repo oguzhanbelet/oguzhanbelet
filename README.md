@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oguzhan Belet
-- 👀 I’m interested in anything based on IT :D
+- 👀 I’m self learner developer and technology enthusiast. I have interest anything based on IT :D
 - 🌱 I’m currently work on Java, Spring Framework and Web Development
 - 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/oguzhanbelet/) <-
 <!---
